@@ -1,46 +1,56 @@
 
-# Evidências do Projeto de QA
+# Evidências do Projeto de QA — Gestão de Chamados Senatec
 
-Esta pasta reúne registros visuais do projeto de Garantia da Qualidade do sistema Gestão de Chamados Senatec.
+Esta pasta reúne as evidências visuais do projeto de Garantia da Qualidade (QA) da aplicação Gestão de Chamados Senatec. As capturas foram obtidas durante a organização do projeto, o cadastro dos casos de teste, a execução dos testes e o registro dos bugs no Jira.
 
-## Evidências previstas
+## Organização das evidências
 
-### 1. Visão geral do projeto
-Capturas da estrutura do projeto Jira e dos grupos funcionais.
+### 1. Visão geral do projeto — `projeto-geral/`
 
-### 2. Execução dos testes
-Capturas da organização dos casos de teste e dos resultados da primeira execução.
+Capturas da estrutura do projeto no Jira, incluindo os sete grupos funcionais e a organização geral.
 
-### 3. Bugs registrados
-Registros visuais dos bugs identificados e de suas relações com os casos de teste.
+### 2. Casos de teste — `casos-de-teste/`
 
-### 4. Dashboard de QA
-Capturas do painel utilizado para visualizar indicadores e resultados.
+Capturas que demonstram os casos de teste cadastrados no Jira, incluindo seus identificadores e títulos.
 
-### 5. Planejamento do reteste
-Registro da Sprint 2 — Reteste, preparada para verificar futuras correções.
+### 3. Resultados da execução — `resultados-execucao/`
 
-### 6. Evidências individuais
-Capturas selecionadas que demonstrem o comportamento do sistema durante a execução de casos de teste.
+Capturas dos resultados da primeira execução dos testes, demonstrando os casos aprovados e reprovados.
+
+### 4. Bugs registrados — `bugs/`
+
+Capturas dos oito bugs identificados e de seus vínculos com os respectivos casos de teste.
+
+### 5. Dashboard de QA — `dashboard/`
+
+Capturas do dashboard do Jira, incluindo os indicadores e gráficos utilizados para visualizar os resultados.
+
+### 6. Sprint de reteste — `sprint-reteste/`
+
+Capturas da Sprint 2 — Reteste, preparada para organizar a verificação futura das correções dos bugs.
+
+A sprint permanece sem iniciar, e os bugs continuam com status "A fazer", pois ainda aguardam correção.
+
+### 7. Documentação no Jira — `documentacao/`
+
+Capturas das tarefas de documentação no Jira, demonstrando os anexos do Plano de Testes e das Regras de Negócio.
 
 ## Resultados da primeira execução
 
-- 44 casos de teste executados
-- 36 aprovados
-- 8 reprovados
-- 8 bugs registrados
+| Indicador | Resultado |
+|---|---:|
+| Casos de teste executados | 44 |
+| Testes aprovados | 36 |
+| Testes reprovados | 8 |
+| Bugs registrados | 8 |
 
-## Projeto de QA no Jira
+Os resultados representam a primeira execução dos testes. Os bugs registrados ainda não são considerados resolvidos.
 
-O planejamento e o acompanhamento dos testes foram realizados no Jira, incluindo os casos de teste, os resultados da execução, o registro de bugs, o dashboard e o planejamento do reteste.
+## Observações
 
-**Acessar o projeto:** [QA - Gestão de Chamados Senatec](https://yanvieiradecarvalho.atlassian.net/jira/software/projects/QGDCS/boards/35?filter=&groupBy=none)
+- As capturas foram organizadas por categoria para facilitar a consulta.
+- As evidências individuais de execução ainda poderão ser anexadas diretamente aos respectivos casos de teste no Jira.
+- O acesso aos registros do Jira depende das permissões configuradas no projeto.
+- Antes da publicação pública, as imagens devem ser revisadas para evitar a exposição de dados confidenciais.
 
-> O acesso ao Jira depende das permissões configuradas no projeto. Os resultados documentados neste repositório permitem conhecer parte do trabalho mesmo sem acesso ao quadro.
-
-
-## Observação
-
-Os arquivos serão adicionados após seleção e revisão. As evidências individuais dos testes ainda serão organizadas e poderão ser consultadas no Jira conforme as permissões de acesso.
-
-Antes da publicação, todos os arquivos serão revisados para evitar a divulgação de informações confidenciais.
+Estas evidências complementam o código-fonte, a documentação e os registros de QA apresentados neste repositório.
