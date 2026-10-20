@@ -1,0 +1,36 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.venv/
+venv/
+env/
+
+# Arquivos de ambiente e credenciais
+.env
+.env.*
+!.env.example
+secrets.*
+credentials.*
+
+# Banco de dados local
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.sqlite-journal
+
+# Arquivos gerados pelo PyInstaller
+build/
+dist/
+*.manifest
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
