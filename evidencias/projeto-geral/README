@@ -1,3 +1,15 @@
-# Visão Geral do Projeto
+# Evidências — Visão Geral do Projeto
 
-Capturas de tela da estrutura geral do projeto QA Senatec no Jira, incluindo os épicos e a organização inicial dos testes.
+Esta pasta reúne capturas de tela da estrutura geral do projeto QA Senatec no Jira.
+
+As imagens demonstram a organização do projeto e seus sete grupos funcionais:
+
+1. Cadastro de chamado
+2. Listas por status e botões de ação
+3. Edição de chamados
+4. Exclusão de chamados
+5. Aba Todos / Por Região
+6. Relatórios, pastas, notificações e alertas
+7. Gravação de dados e backup
+
+Estas evidências apresentam a estrutura utilizada para organizar o planejamento e a execução dos testes do sistema Gestão de Chamados Senatec.
