@@ -1,1 +1,13 @@
-Prints dos 8 bugs
+# Evidências — Bugs Registrados
+
+Esta pasta contém capturas de tela dos bugs identificados durante os testes do sistema Gestão de Chamados Senatec.
+
+Foram registrados oito bugs, de BUG-001 a BUG-008, relacionados aos respectivos casos de teste que apresentaram falhas.
+
+As evidências demonstram os registros dos bugs e suas relações com os casos de teste correspondentes.
+
+## Situação
+
+Os bugs permanecem com status "A fazer", aguardando correção. Portanto, não são considerados resolvidos.
+
+Os registros permitem acompanhar os problemas identificados na primeira execução dos testes.
