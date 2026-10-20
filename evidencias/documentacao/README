@@ -1,1 +1,14 @@
-Prints dos documentos anexados no Jira
+# Evidências — Documentação no Jira
+
+Esta pasta reúne capturas de tela das tarefas de documentação do projeto QA Senatec no Jira.
+
+As imagens demonstram os registros de documentação e os anexos adicionados às tarefas correspondentes.
+
+## Documentos demonstrados
+
+- Plano de Testes
+- Regras de Negócio
+
+Esses materiais complementam os registros do Jira e documentam o planejamento dos testes e as regras utilizadas como referência para avaliar o comportamento esperado do sistema.
+
+As evidências servem como registro visual dos anexos disponíveis nas respectivas tarefas do Jira.
