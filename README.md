@@ -18,6 +18,7 @@ O sistema utiliza Python para a aplicação, SQLite para armazenamento local e T
 - Tkinter e ttkbootstrap
 - Pillow
 - ReportLab
+- winotify
 - Jira
 - GitHub
 - PyInstaller para empacotamento do executável Windows
@@ -45,7 +46,7 @@ O planejamento e o acompanhamento dos testes foram organizados no Jira, contempl
 
 Os oito bugs foram registrados e relacionados aos casos de teste correspondentes. A Sprint 2 — Reteste foi preparada, mas permanece sem iniciar até que os problemas sejam corrigidos.
 
-Os números representam a primeira execução. Os bugs ainda não são considerados resolvidos.
+Os resultados representam a primeira execução dos testes. Os bugs ainda não são considerados resolvidos.
 
 ## Navegação pelo repositório
 
@@ -54,11 +55,19 @@ Os números representam a primeira execução. Os bugs ainda não são considera
 - [Documentação](./documentacao/)
 - [Evidências](./evidencias/)
 
+## Projeto de QA no Jira
+
+O Jira foi utilizado para organizar e acompanhar os casos de teste, os resultados da execução, o registro de bugs, o dashboard e o planejamento do reteste.
+
+**Acessar o projeto:** [QA — Gestão de Chamados Senatec](https://yanvieiradecarvalho.atlassian.net/jira/software/projects/QGDCS/boards/35?filter=&groupBy=none)
+
+O acesso ao Jira depende das permissões configuradas no projeto. Os materiais deste repositório complementam os registros disponíveis na ferramenta.
+
 ## Documentação disponível
 
 A pasta de documentação reúne os materiais de planejamento e análise de QA, incluindo o plano de testes, as regras de negócio e o resumo executivo.
 
-O catálogo dos 44 casos de teste será incluído após a atualização do documento com as evidências correspondentes.
+O catálogo dos 44 casos de teste será incluído após a atualização do documento e a organização das evidências correspondentes.
 
 ## Objetivos do projeto
 
