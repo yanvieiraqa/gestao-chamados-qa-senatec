@@ -34,3 +34,8 @@ dist/
 # Arquivos do sistema operacional
 .DS_Store
 Thumbs.db
+
+# Arquivos gerados pelo Gestão de Chamados
+relatorios/
+backups/
+ultimo_relatorio_gerado.txt
