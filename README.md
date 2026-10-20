@@ -1,27 +1,30 @@
 
-# Gestão de Chamados — Sistema e Projeto de QA
+# Gestão de Chamados Senatec — Sistema e Projeto de QA
 
-Projeto de desenvolvimento de uma aplicação de Gestão de Chamados em Python e SQLite, acompanhado de um projeto de Garantia da Qualidade de Software (QA), organizado no Jira.
+Projeto de desenvolvimento de um sistema de Gestão de Chamados em Python, com banco de dados SQLite, acompanhado de um projeto de Garantia da Qualidade de Software (QA) organizado no Jira.
 
-O objetivo é apresentar tanto o sistema desenvolvido quanto o processo de planejamento, execução e documentação dos testes realizados.
+O objetivo é apresentar tanto a aplicação desenvolvida quanto as atividades de planejamento, execução, registro de falhas e documentação dos testes.
 
-## Sobre o projeto
+## Sobre o sistema
 
-A aplicação foi desenvolvida em Python, utiliza SQLite para armazenamento de dados e possui distribuição por executável para Windows.
+A aplicação permite cadastrar e acompanhar chamados, organizar registros por status e região, editar e excluir informações, exportar dados em CSV e gerar relatórios em PDF.
 
-O trabalho de QA foi organizado no Jira, contemplando o planejamento dos testes, a definição dos casos de teste, a execução, o registro de bugs, a rastreabilidade e o planejamento de retestes.
+O sistema utiliza Python para a aplicação, SQLite para armazenamento local e Tkinter com ttkbootstrap para a interface gráfica.
 
 ## Tecnologias e ferramentas
 
 - Python
 - SQLite
+- Tkinter e ttkbootstrap
+- Pillow
+- ReportLab
 - Jira
 - GitHub
-- PyInstaller para empacotamento do aplicativo Windows
+- PyInstaller para empacotamento do executável Windows
 
-## Escopo dos testes
+## Projeto de QA
 
-Os testes foram organizados em sete grupos funcionais:
+O planejamento e o acompanhamento dos testes foram organizados no Jira, contemplando sete grupos funcionais:
 
 1. Cadastro de chamados
 2. Listas por status e botões de ação
@@ -31,7 +34,7 @@ Os testes foram organizados em sete grupos funcionais:
 6. Relatórios, pastas, notificações e alertas
 7. Gravação de dados e backup
 
-## Resultados da primeira execução
+### Resultados da primeira execução
 
 | Indicador | Resultado |
 |---|---:|
@@ -40,44 +43,25 @@ Os testes foram organizados em sete grupos funcionais:
 | Testes reprovados | 8 |
 | Bugs registrados | 8 |
 
-Os oito bugs foram registrados no Jira e relacionados aos respectivos casos de teste. A Sprint 2 — Reteste foi preparada para uma execução futura, após a correção dos problemas identificados.
+Os oito bugs foram registrados e relacionados aos casos de teste correspondentes. A Sprint 2 — Reteste foi preparada, mas permanece sem iniciar até que os problemas sejam corrigidos.
 
-**Observação:** os resultados apresentados correspondem à primeira execução dos testes. Os bugs permanecem registrados como pendentes de correção; portanto, não são considerados resolvidos.
+Os números representam a primeira execução. Os bugs ainda não são considerados resolvidos.
 
-## Documentação de QA
+## Navegação pelo repositório
 
-O projeto contempla:
+- [Programa — código-fonte](./programa/)
+- [Projeto de QA](./qa/)
+- [Documentação](./documentacao/)
+- [Evidências](./evidencias/)
 
-- Plano de testes
-- Catálogo de casos de teste
-- Regras de negócio
-- Registro e acompanhamento de bugs
-- Resumo executivo de QA
-- Evidências de execução e resultados
+## Documentação disponível
 
-Os arquivos e as evidências serão organizados neste repositório à medida que a preparação do portfólio avançar.
+A pasta de documentação reúne os materiais de planejamento e análise de QA, incluindo o plano de testes, as regras de negócio e o resumo executivo.
 
-## Estrutura planejada
+O catálogo dos 44 casos de teste será incluído após a atualização do documento com as evidências correspondentes.
 
-```text
-gestao-chamados-qa-senatec/
-├── programa/
-├── qa/
-├── documentacao/
-├── evidencias/
-└── README.md
-```
+## Objetivos do projeto
 
-## Objetivos de aprendizagem
+Este projeto reúne prática de desenvolvimento em Python e testes manuais de software, incluindo planejamento, execução, registro de resultados, identificação de falhas, rastreabilidade e documentação de QA.
 
-Este projeto demonstra a prática de organização de testes manuais, registro de resultados, identificação de falhas, rastreabilidade entre testes e bugs e documentação de QA utilizando ferramentas de gestão de projetos.
-
-O desenvolvimento do aplicativo também envolve programação em Python, persistência de dados com SQLite e empacotamento para Windows.
-
-## Status do projeto
-
-- Aplicação desenvolvida.
-- Primeiro ciclo de testes registrado.
-- Bugs identificados e documentados.
-- Documentação de QA organizada no Jira.
-- Preparação do portfólio no GitHub em andamento.
+O repositório está em preparação para apresentação em portfólio profissional.
