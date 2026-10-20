@@ -30,6 +30,15 @@ Capturas selecionadas que demonstrem o comportamento do sistema durante a execu�
 - 8 reprovados
 - 8 bugs registrados
 
+## Projeto de QA no Jira
+
+O planejamento e o acompanhamento dos testes foram realizados no Jira, incluindo os casos de teste, os resultados da execução, o registro de bugs, o dashboard e o planejamento do reteste.
+
+**Acessar o projeto:** [QA - Gestão de Chamados Senatec](https://yanvieiradecarvalho.atlassian.net/jira/software/projects/QGDCS/boards/35?filter=&groupBy=none)
+
+> O acesso ao Jira depende das permissões configuradas no projeto. Os resultados documentados neste repositório permitem conhecer parte do trabalho mesmo sem acesso ao quadro.
+
+
 ## Observação
 
 Os arquivos serão adicionados após seleção e revisão. As evidências individuais dos testes ainda serão organizadas e poderão ser consultadas no Jira conforme as permissões de acesso.
