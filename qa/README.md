@@ -46,4 +46,12 @@ A Sprint 2 — Reteste foi preparada para organizar a verificação futura das c
 - [Documentação do projeto](../documentacao/)
 - [Evidências do projeto](../evidencias/)
 
+## Projeto de QA no Jira
+
+O Jira foi utilizado para organizar e acompanhar os casos de teste, os resultados da primeira execução, os bugs registrados, o dashboard e o planejamento do reteste.
+
+**Acessar o projeto no Jira:** [QA - Gestão de Chamados Senatec](https://yanvieiradecarvalho.atlassian.net/jira/software/projects/QGDCS/boards/35?filter=&groupBy=none)
+
+O acesso aos registros depende das permissões configuradas no Jira. Os documentos e materiais deste repositório complementam as informações do projeto.
+
 O catálogo atualizado dos 44 casos de teste e as evidências selecionadas serão adicionados ao repositório após a conclusão dessa etapa.
