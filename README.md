@@ -55,6 +55,12 @@ Os resultados representam a primeira execução dos testes. Os bugs ainda não s
 - [Documentação](./documentacao/)
 - [Evidências](./evidencias/)
 
+## Documentação disponível
+
+A pasta de documentação reúne os materiais de planejamento e análise de QA, incluindo o Plano de Testes e as Regras de Negócio.
+
+O catálogo dos 44 casos de teste será adicionado após a atualização do documento e a organização das evidências correspondentes.
+
 ## Projeto de QA no Jira
 
 O Jira foi utilizado para organizar e acompanhar os casos de teste, os resultados da execução, o registro de bugs, o dashboard e o planejamento do reteste.
@@ -62,12 +68,6 @@ O Jira foi utilizado para organizar e acompanhar os casos de teste, os resultado
 **Acessar o projeto:** [QA — Gestão de Chamados Senatec](https://yanvieiradecarvalho.atlassian.net/jira/software/projects/QGDCS/boards/35?filter=&groupBy=none)
 
 O acesso ao Jira depende das permissões configuradas no projeto. Os materiais deste repositório complementam os registros disponíveis na ferramenta.
-
-## Documentação disponível
-
-A pasta de documentação reúne os materiais de planejamento e análise de QA, incluindo o plano de testes, as regras de negócio e o resumo executivo.
-
-O catálogo dos 44 casos de teste será incluído após a atualização do documento e a organização das evidências correspondentes.
 
 ## Objetivos do projeto
 
