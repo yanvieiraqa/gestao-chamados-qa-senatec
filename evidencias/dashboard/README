@@ -1,1 +1,9 @@
-Prints do dashboard
+# Evidências — Dashboard de QA
+
+Esta pasta reúne capturas de tela do dashboard do projeto QA Senatec no Jira.
+
+O painel foi configurado para apresentar indicadores e gráficos que ajudam a visualizar informações relacionadas aos testes e aos registros do projeto.
+
+As imagens demonstram o dashboard configurado, incluindo os gadgets de Estatística do Ticket e Gráfico de Pizza.
+
+O dashboard complementa os registros de execução e facilita a consulta dos indicadores do projeto.
